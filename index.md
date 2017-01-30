@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to My IoT Research Page
 
-You can use the [editor on GitHub](https://github.com/kantsk1013/kantsk1013.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is purely for research purpose and academic uses.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Automation Using Raspberry ESP8266-01 WiFi Module
+[Home Automation]
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -30,7 +29,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kantsk1013/kantsk1013.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kantsk1013/kantsk1013.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.,skncc
 
 ### Support or Contact
 
