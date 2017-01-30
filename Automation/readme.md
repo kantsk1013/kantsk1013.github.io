@@ -13,6 +13,7 @@
 The ESP8266 code [here](http://kantsk1013.github.io/Automation/esp.ino)
 
 
+
 __After uploading Code connect GPIO0 and GPIO2 to 2 leds for testing__
 
 _On the serial monitor see the ip assigned to the board and open it on any system on same network_
