@@ -3,7 +3,7 @@
 This is purely for research purpose and academic uses.
 
 ### Automation Using Raspberry ESP8266-01 WiFi Module
-[Home Automation](http://kantsk1013.github.io/Automation/readme.md)
+[Home Automation](https://github.com/kantsk1013/kantsk1013.github.io/blob/master/Automation/readme.md)
 
 ### TCP Javasocket Client to get Soil data from Node MCU V3
 
